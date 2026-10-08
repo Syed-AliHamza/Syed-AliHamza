@@ -1,133 +1,68 @@
 # Syed Ali Hamza
 
-![AI](https://img.shields.io/badge/AI-Expert-green) 
-![SaaS](https://img.shields.io/badge/SaaS-Specialist-blue) 
-![Leadership](https://img.shields.io/badge/Leadership-Proven-orange)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/syed-ali-hamza-global)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Available-brightgreen?logo=fiverr)](https://fiverr.com/syedalihamza999?public_mode=true)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey?logo=firefox)](http://syedalihamza.me/)
-[![Email](https://img.shields.io/badge/Email-hamza.syed9995@gmail.com-red?logo=gmail)](mailto:hamza.syed9995@gmail.com)
+**Senior Software Engineer & Technical Lead | Full-Stack Development · AI Applications · SaaS**
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/46610321?v=4" width="150" alt="Syed Ali Hamza" />
-</div>
+I build web applications and AI-enabled SaaS products, combining hands-on engineering with software architecture and team leadership.
 
----
+With 7+ years of experience, I’ve contributed to products across business intelligence, healthcare, financial research, dealership operations, and enterprise software. My responsibilities span architecture, implementation, code reviews, performance improvements, and mentoring engineers.
 
-## 🚀 Welcome!
+[Portfolio](https://www.syedalihamza.me) · [LinkedIn](https://www.linkedin.com/in/syed-ali-hamza-global/) · [Email](mailto:hamza.syed9995@gmail.com) · [Book a 30-minute intro call](https://calendly.com/hamza-syed9995/30min)
 
-Hi, I'm **Syed Ali Hamza**, passionate about building AI-powered SaaS platforms and leading high-performance technical teams. With over 5 years of experience, I help businesses unlock real results through technology.
+## Selected project experience
 
-> **"Great solutions aren’t just built; they’re architected with vision, delivered with reliability, and refined through teamwork."**
+These case studies cover products I contributed to as part of engineering teams. Each explains my individual role and the broader product scope.
 
----
+### [Cosmic AI Platform](https://www.syedalihamza.me/projects/cosmic-ai-platform)
 
-## 📊 My GitHub Activity
+**Technical Lead & Full-Stack Developer**
 
-<div align="center">
+Led technical architecture and the development team while delivering substantial full-stack implementation for an AI business intelligence platform. The product connects conversational data queries, KPI dashboards, visualizations, and AI-assisted summaries.
 
-<a href="https://github.com/Syed-AliHamza">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Syed-AliHamza&show_icons=true&theme=radical" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/Syed-AliHamza">
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-AliHamza&layout=compact&theme=radical" alt="Top Languages" />
-</a>
+**Platform technologies:** Next.js, Vanna AI, Prisma, MySQL, Qdrant, Azure OpenAI, Vercel AI SDK.
 
-<!-- Contribution Graph (if not working, see tip below) -->
-<a href="https://github.com/Syed-AliHamza">
-  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=Syed-AliHamza&theme=radical" alt="Contribution Graph" />
-</a>
-</div>
+### [MIRA](https://www.syedalihamza.me/projects/mira)
 
-<details>
-  <summary>Having trouble loading my contribution graph?</summary>
-  <ul>
-    <li>Please refresh or try <a href="https://github-readme-activity-graph.vercel.app/graph?username=Syed-AliHamza&theme=radical" target="_blank">direct link</a>.</li>
-    <li>Sometimes third-party image hosts may be temporarily down.</li>
-  </ul>
-</details>
+**Lead Full-Stack Developer**
 
----
+Led full-stack development as an AI-assisted medical intake product evolved into a multi-clinic SaaS platform. Its workflows connect clinic subscriptions, physician-specific intake links, multi-step patient forms, and AI-generated summaries for patients and physicians.
 
-## 🧠 Technical Skills
+**Platform technologies:** Next.js, React, Node.js, Azure OpenAI, Azure Key Vault, Stripe.
 
-- **AI & Machine Learning:** OpenAI, Azure OpenAI, LangGraph, LLM, Vercel AI SDK, RAG Pipeline, GPT-4/4o, NLP, Chatbot Dev
-- **Frontend:** React.js, Next.js, TypeScript, Vue.js, Tailwind CSS, Material UI, Redux, React Query
-- **Backend & Cloud:** Node.js, Python, PostgreSQL, MongoDB, AWS, Azure, Redis, Express.js
+### [MarketVerse AI](https://www.syedalihamza.me/projects/marketverse-ai)
 
----
+**Full-Stack & AI Engineer**
 
-## 🌟 Featured Projects
+Built data aggregation, AI chat, financial analytics, and authentication modules for a financial research platform that brings market information and AI-assisted analysis into a shared workspace.
 
-<table>
-  <tr>
-    <td>
-      <b>Cosmic AI Platform</b><br>
-      <em>Next.js, Flask, GPT-4, NLP</em><br>
-      <span style="color:green">✅ 78% faster data processing</span> <br>
-      <span style="color:orange">🌟 100% client satisfaction</span>
-    </td>
-    <td>
-      <b>Funtown RV Central</b><br>
-      <em>React.js, Node.js, Redis</em><br>
-      <span style="color:green">👥 1,000+ DAU, zero downtime</span> <br>
-      <span style="color:orange">🔒 100% data integrity</span>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>MarketVerse AI</b><br>
-      <em>Next.js, Azure OpenAI, Neo4j</em><br>
-      <span style="color:green">🤖 24/7 market intelligence</span> <br>
-      <span style="color:orange">📈 Predictive modeling</span>
-    </td>
-    <td>
-      <b>Dealership Toolkit</b><br>
-      <em>React.js, Node.js, PostgreSQL</em><br>
-      <span style="color:green">🚗 100K+ monthly visitors</span> <br>
-      <span style="color:orange">📊 Advanced CRM</span>
-    </td>
-  </tr>
-</table>
+**Technologies used:** React, FastAPI, Azure, OpenAI API.
 
----
+### [Stealth](https://www.syedalihamza.me/projects/stealth)
 
-## 🏆 Awards & Recognition
+**Full-Stack Developer**
 
-- 🥇 <b>2024:</b> Client Hero Award (Datics AI Global)
-- 🥇 <b>2023:</b> Consistent Performer Award (Datics AI)
-- 🥇 <b>2022:</b> Star of the Year Award (Datics AI)
+Built customer insights and Ghost Shopper tracking modules, contributed appointment scheduling and reporting dashboards, and developed full-stack workflows for dealership sales and customer management.
 
----
+**Technologies used:** React, Node.js, PostgreSQL, Sequelize, Material UI.
 
-## 💬 What Clients Say
+**More project experience:** [FTRV Central Point](https://www.syedalihamza.me/projects/central-point) · [PeerLogic](https://www.syedalihamza.me/projects/peerlogic) · [PadLock](https://www.syedalihamza.me/projects/padlock) · [BA Assistant](https://www.syedalihamza.me/projects/ba-assistant) · [Funtown Loomly](https://www.syedalihamza.me/projects/funtown-loomly)
 
-<details>
-  <summary>Click to read testimonials</summary>
-  
-  > <b>Steffen, Germany:</b> "Professional, reliable, easy to communicate, and FAST."
-  >
-  > <b>Asonganyinkemzi, USA:</b> "Very talented and patient. Met all specifications."
-  >
-  > <b>Patrick Skinner, USA:</b> "Amazingly prompt and awesome to work with!"
-</details>
+## Technical toolkit
 
+- **Frontend:** React, Next.js, Vue.js, TypeScript, Tailwind CSS.
+- **Backend & data:** Node.js, Express, Python, FastAPI, PostgreSQL, MySQL, Redis.
+- **AI applications:** OpenAI API, Azure OpenAI, RAG, LangGraph, Vercel AI SDK.
+- **Cloud:** AWS, Azure.
 
----
+## Certification & recognition
 
-## 🤝 Connect & Collaborate!
+**[AWS Certified AI Practitioner](https://www.credly.com/users/syed-ali-hamza.b9e67905)**
 
-| 🌐 [Portfolio](http://syedalihamza.me/) | 💼 [LinkedIn](https://linkedin.com/in/syed-ali-hamza-global) | 🛠️ [Fiverr](https://fiverr.com/syedalihamza999?public_mode=true) | 📧 [Email](mailto:hamza.syed9995@gmail.com) |
+- **2024:** Client Hero Award, Datics AI Global.
+- **2023:** Consistent Performer Award, Datics AI.
+- **2022:** Star of the Year Award, Datics AI.
 
-<div align="center">
-  <a href="mailto:hamza.syed9995@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-Click%20Here-brightgreen?style=for-the-badge&logo=gmail" alt="Contact Me" />
-  </a>
-</div>
+## Let’s connect
 
----
+Based in Lahore, Pakistan. Open to remote Senior Software Engineer and Technical Lead opportunities with international teams, alongside selected SaaS and AI development projects.
 
-## 💡 Ready to Start Your Project?
-
-Specializing in AI-powered SaaS platforms, full-stack development, and technical team leadership.  
-Let’s discuss how I can help transform your ideas into high-impact solutions with cutting-edge technology!
+Have a project or opportunity in mind? [Book a 30-minute intro call](https://calendly.com/hamza-syed9995/30min) or [send me an email](mailto:hamza.syed9995@gmail.com).
